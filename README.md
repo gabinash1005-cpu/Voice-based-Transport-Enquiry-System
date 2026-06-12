@@ -1,7 +1,7 @@
 # VoiceEnquiry
 ![alt text](https://robohash.org/1?200x200)
 
-Project done as part of CSE302 DBMS Course
+Project done as part of DBMS Course
 
 Stack Used:
 * REACT JS + Node JS + MySQL + Express JS
@@ -17,4 +17,3 @@ In server.js file, edit the connection details of your host Database and execute
 
 Type node server.js to run the server in default port: 3000
 
-Happy Hacking!
